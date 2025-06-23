@@ -73,3 +73,19 @@ Banks need to assess the risk of default before issuing loans. Poor credit decis
 
 ## 📁 Folder Structure
 
+This analysis uses three datasets:
+
+1. **Customer Acquisition** – Information collected at the time of card issue.
+2. **Spend Transactions** – Monthly spending per customer.
+3. **Repayments** – Monthly repayment details per customer.
+
+---
+
+## 📌 Getting Started
+
+1. Load and clean the datasets.
+2. Perform required summaries and visualizations.
+3. Use the provided Python function for dynamic filtering.
+4. Generate insights and recommendations.
+
+---
